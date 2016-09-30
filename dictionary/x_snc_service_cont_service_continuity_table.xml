@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Service Continuity Table" max_length="40" name="x_snc_service_cont_service_continuity_table" type="collection"/>
+</database>
