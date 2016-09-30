@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="scheduled_jobs" label="Scheduled Jobs" language="en" table="x_snc_service_cont_service_continuity_backup_overview">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>scheduled_jobs</element>
+            <help/>
+            <hint/>
+            <label>Scheduled Jobs</label>
+            <language>en</language>
+            <name>x_snc_service_cont_service_continuity_backup_overview</name>
+            <plural>Scheduled Jobs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-30 17:50:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>cc165937db422200d5e27416bf961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Scheduled Jobs</sys_name>
+            <sys_package display_value="Service Continuity" source="x_snc_service_cont">4178c533db422200d5e27416bf961914</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Service Continuity">4178c533db422200d5e27416bf961914</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_service_cont_service_continuity_backup_overview_scheduled_jobs_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-30 17:50:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

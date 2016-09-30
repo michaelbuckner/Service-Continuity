@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Service Continuity Backup Overview" max_length="40" name="x_snc_service_cont_service_continuity_backup_overview" type="collection">
+        <element label="Backup Job Status Report Link" max_length="40" name="backup_job_status_report_link" type="string"/>
+        <element label="Failed Job Runs" max_length="40" name="failed_job_runs" type="integer"/>
+        <element label="Max Backup Job Duration" max_length="40" name="max_backup_job_duration" type="integer"/>
+        <element label="Max Duration Backup Job Name" max_length="40" name="max_duration_backup_job_name" type="string"/>
+        <element label="Max Job Duration" max_length="40" name="max_job_duration" type="integer"/>
+        <element label="Max Replica Job Duration" max_length="40" name="max_replica_job_duration" type="integer"/>
+        <element label="Running Jobs" max_length="40" name="running_jobs" type="integer"/>
+        <element label="Scheduled Backup Jobs" max_length="40" name="scheduled_backup_jobs" type="integer"/>
+        <element label="Scheduled Jobs" max_length="40" name="scheduled_jobs" type="integer"/>
+        <element label="Scheduled Replica Jobs" max_length="40" name="scheduled_replica_jobs" type="integer"/>
+        <element label="Successful Job Runs" max_length="40" name="successful_job_runs" type="integer"/>
+        <element label="Total Job Runs" max_length="40" name="total_job_runs" type="integer"/>
+        <element label="Warnings Job Runs" max_length="40" name="warnings_job_runs" type="integer"/>
+    </element>
+</database>

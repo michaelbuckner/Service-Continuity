@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Service Continuity Backup Jobs" max_length="40" name="x_snc_service_cont_service_continuity_backup_jobs" type="collection">
+        <element label="Href" max_length="1024" name="href" type="url"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+        <element label="UID" max_length="40" name="uid" type="string"/>
+    </element>
+</database>
